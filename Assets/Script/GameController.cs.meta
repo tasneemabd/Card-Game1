@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 015bcbcf5da194445a675abb45053f89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Card: {fileID: 3824188113442019426, guid: eb1928e3c17f5434cb1311c01418f1b9, type: 3}
+  - tf_BaxCard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
