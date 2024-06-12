@@ -8,15 +8,18 @@ public class UI : MonoBehaviour
     public Image img_card;
     public GameObject Gob_FRontCard;
     public int scoreCard;   
-    // Start is called before the first frame update
+    // Start is called before the first frame update 
+      
+     
+
     void Start()
     {
 
-       // string str = img_card.sprite.name;
+      //string str = img_card.sprite.name;
        
 
 
-       // scoreCard = int.Parse(str.Substring(1));
+     //  scoreCard = int.Parse(str.Substring(1));
 
     }
 
@@ -24,5 +27,9 @@ public class UI : MonoBehaviour
     void Update()
     {
         
+    }
+    public string GetCardName()
+    {
+        return img_card.sprite.name;
     }
 }
